@@ -115,8 +115,8 @@ Complex engineering should make a product easier to use — not force users to u
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=hsxk&show_icons=true&hide_title=true&hide_border=true&rank_icon=github&theme=transparent" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hsxk&layout=compact&hide_border=true&theme=transparent&langs_count=8" alt="Top languages" />
+<img width="470" src="https://raw.githubusercontent.com/hsxk/hsxk/main/assets/github-overview.svg" alt="GitHub engineering overview" />
+<img width="470" src="https://raw.githubusercontent.com/hsxk/hsxk/main/assets/core-stack.svg" alt="Core engineering stack" />
 
 </div>
 
