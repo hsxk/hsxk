@@ -4,7 +4,7 @@
 
 ### Software Engineer · Full-Stack Tech Lead · Product Builder
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=1200&center=true&vCenter=true&width=760&lines=Turning+complex+systems+into+useful+products;Full-stack+%C3%97+Data+%C3%97+Infrastructure;Building+for+the+web+in+%E4%B8%AD%E6%96%87+%C2%B7+%E6%97%A5%E6%9C%AC%E8%AA%9E+%C2%B7+English" alt="Typing introduction" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=1200&center=true&vCenter=true&width=760&lines=8+years+building+production+software;Full-stack+%C3%97+Data+%C3%97+Cloud;Turning+complex+systems+into+useful+products;Building+in+%E4%B8%AD%E6%96%87+%C2%B7+%E6%97%A5%E6%9C%AC%E8%AA%9E+%C2%B7+English" alt="Typing introduction" />
 
 <p>
   <a href="https://time2analyze.com/"><img src="https://img.shields.io/badge/Time2Analyze-111827?style=for-the-badge&logo=googleanalytics&logoColor=white" alt="Time2Analyze" /></a>
@@ -12,25 +12,21 @@
   <a href="https://sunsets.time2log.com/"><img src="https://img.shields.io/badge/Where_The_Sun_Sets-111827?style=for-the-badge&logo=googleearth&logoColor=white" alt="Where The Sun Sets" /></a>
 </p>
 
-**I build products where software engineering, data, infrastructure, and user experience meet.**
+**I build end-to-end products across software, data, cloud infrastructure, and user experience.**
 
 </div>
 
 ---
 
-## About me
-
-I work across the full product stack — from **product and UI decisions** to **backend architecture, data pipelines, infrastructure, deployment, and observability**.
-
-My favorite problems are the ones where the system is complicated underneath, but the experience should feel simple on the surface.
+## About
 
 - 💻 **8 years of software development** experience
-- 🧭 Experience leading full-stack engineering work and small technical teams
-- 🎓 Studied **Software Engineering** at university
+- 🎓 University background in **Software Engineering**
+- 🧭 Hands-on experience leading full-stack engineering work and small technical teams
 - 🌏 Working across **中文 / 日本語 / English**
-- 🧩 Comfortable crossing frontend, backend, data, infrastructure, and product boundaries
-- ⚡ I care about performance, maintainability, accessibility, and clear interaction design
-- 🛠️ I like turning repetitive or opaque workflows into tools people can actually understand
+- 🧩 Comfortable owning a problem from product and architecture through implementation, infrastructure, and production
+
+I’m most interested in engineering work where the system can be sophisticated underneath while the product remains **clear, fast, and easy to use**.
 
 ## What I'm building
 
@@ -44,7 +40,7 @@ My favorite problems are the ones where the system is complicated underneath, bu
 </td>
 <td width="50%" valign="top">
 <h3>🌅 Where The Sun Sets</h3>
-<p>An interactive astronomy and photography tool for understanding sunlight, the Moon, the Earth, direction, timing, and outdoor shooting conditions.</p>
+<p>An interactive astronomy and photography product for understanding sunlight, the Moon, the Earth, direction, timing, and outdoor shooting conditions.</p>
 <p><b>Astronomy · Visualization · Photography · Interactive learning</b></p>
 <p><a href="https://sunsets.time2log.com/"><b>Explore the project →</b></a></p>
 </td>
@@ -53,8 +49,8 @@ My favorite problems are the ones where the system is complicated underneath, bu
 <tr>
 <td width="50%" valign="top">
 <h3>📷 Take a Photo</h3>
-<p>An interactive photography learning project designed to teach camera settings, exposure, metering, composition, and the relationships between them through hands-on visual experiments.</p>
-<p><b>Photography · 3D/interactive learning · Camera fundamentals · Education</b></p>
+<p>An interactive photography learning product for understanding camera settings, exposure, metering, composition, and how those concepts affect one another.</p>
+<p><b>Photography · 3D / interactive learning · Camera fundamentals · Education</b></p>
 <p><i>In active development.</i></p>
 </td>
 <td width="50%" valign="top">
@@ -77,8 +73,6 @@ My favorite problems are the ones where the system is complicated underneath, bu
 
 ## Engineering stack
 
-I work across the product stack, with especially strong experience in **full-stack engineering, data platforms, cloud infrastructure, and production delivery**.
-
 | Domain | Technologies & capabilities |
 | --- | --- |
 | **Frontend** | TypeScript · JavaScript · React · Next.js · MUI · i18next · SSR / ISR · responsive UI |
@@ -95,36 +89,19 @@ I work across the product stack, with especially strong experience in **full-sta
 | **Product engineering** | UI/UX · performance · accessibility · SEO · multilingual product design · observability |
 | **Interactive experiences** | WebGL / 3D · data visualization · educational simulations |
 
-## How I like to build
+## Open to opportunities & collaboration
 
-```text
-Understand the real problem
-        ↓
-Design the product and data model
-        ↓
-Build the smallest coherent system
-        ↓
-Measure performance and failure modes
-        ↓
-Automate the repetitive parts
-        ↓
-Keep the complexity available — but invisible until it is needed
-```
+I’m open to conversations around **engineering roles, technical leadership, and product collaboration** — especially where software, data, and infrastructure need to work together as one coherent product.
 
-I am especially interested in the boundary between **powerful systems and simple interfaces**.
+**Good fits include:** full-stack engineering · backend / API engineering · platform & cloud engineering · data-intensive products · hands-on technical leadership · architecture & performance work · multilingual products · open-source collaboration.
 
-Complex engineering should make a product easier to use — not force users to understand the complexity behind it.
+If you're hiring, building something interesting, or looking for an engineering collaborator, feel free to reach out through my projects or [Time2Log](https://time2log.com/).
 
-## GitHub
+## How I work
 
-<div align="center">
+**Understand the real problem → design the product and system together → ship a coherent solution → measure it in production → automate what should disappear into the background.**
 
-<img width="470" src="https://raw.githubusercontent.com/hsxk/hsxk/main/assets/github-overview.svg" alt="GitHub engineering overview" />
-<img width="470" src="https://raw.githubusercontent.com/hsxk/hsxk/main/assets/core-stack.svg" alt="Core engineering stack" />
-
-</div>
-
-> Many of my current product projects live in private repositories, so the public contribution graph is only one slice of what I build.
+I care about **performance, maintainability, accessibility, observability, and clear interaction design** — not as separate checkboxes, but as parts of the product itself.
 
 ---
 
