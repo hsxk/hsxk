@@ -75,24 +75,25 @@ My favorite problems are the ones where the system is complicated underneath, bu
 </tr>
 </table>
 
-## Engineering map
+## Engineering stack
 
-<div align="center">
+I work across the product stack, with especially strong experience in **full-stack engineering, data platforms, cloud infrastructure, and production delivery**.
 
-<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,python,go,php,laravel,postgres,mysql,redis,docker,aws,gcp,nginx,cloudflare,githubactions&perline=9" alt="Technology stack" />
-
-</div>
-
-| Area | I work with |
+| Domain | Technologies & capabilities |
 | --- | --- |
-| **Frontend** | TypeScript, JavaScript, React, Next.js, MUI, i18next, SSR/ISR, responsive UI |
-| **Backend** | Python, FastAPI, Django, Flask, Go, PHP, Laravel, WordPress, REST APIs |
-| **Databases & analytics** | PostgreSQL, **MySQL**, Redis, **Google BigQuery**, data modeling, search |
-| **Data engineering** | **Apache Airflow**, XBRL, disclosure pipelines, ETL-style workflows, MinIO |
-| **Cloud** | **AWS** (ECS, ECR, EC2, RDS, S3, Lambda, EventBridge), **GCP** (BigQuery), **Oracle Cloud Infrastructure (OCI)**, Cloudflare, Vercel |
-| **Infrastructure & delivery** | Docker / Compose, Nginx, HTTP/2 & HTTP/3, GitHub Actions, GHCR, Let's Encrypt |
-| **Product engineering** | UI/UX, performance, accessibility, SEO, multilingual product design, observability |
-| **Interactive experiences** | WebGL / 3D concepts, data visualization, educational simulations |
+| **Frontend** | TypeScript · JavaScript · React · Next.js · MUI · i18next · SSR / ISR · responsive UI |
+| **Backend & APIs** | Python · FastAPI · Django · Flask · Go · PHP · Laravel · WordPress · REST APIs |
+| **Databases & analytics** | PostgreSQL · MySQL · Redis · Google BigQuery · data modeling · search |
+| **Data engineering** | **Apache Airflow** · XBRL · ETL / ELT workflows · MinIO · batch processing · pipeline orchestration |
+| **AWS · Compute & containers** | ECS · ECR · EC2 |
+| **AWS · Serverless & integration** | Lambda · EventBridge · API Gateway · SQS · SNS |
+| **AWS · Data & storage** | RDS · S3 · DynamoDB |
+| **AWS · Networking & edge** | VPC · ALB / ELB · Route 53 · CloudFront |
+| **AWS · Security & operations** | IAM · CloudWatch · Secrets Manager · Systems Manager Parameter Store |
+| **Other cloud platforms** | GCP · BigQuery · Oracle Cloud Infrastructure (OCI) · Cloudflare · Vercel |
+| **Infrastructure & delivery** | Docker · Docker Compose · Nginx · GitHub Actions · GHCR · HTTP/2 · HTTP/3 · TLS / Let's Encrypt |
+| **Product engineering** | UI/UX · performance · accessibility · SEO · multilingual product design · observability |
+| **Interactive experiences** | WebGL / 3D · data visualization · educational simulations |
 
 ## How I like to build
 
