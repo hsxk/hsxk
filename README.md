@@ -24,8 +24,9 @@ I work across the full product stack — from **product and UI decisions** to **
 
 My favorite problems are the ones where the system is complicated underneath, but the experience should feel simple on the surface.
 
-- 💻 Around **7 years of software development** experience
+- 💻 **8 years of software development** experience
 - 🧭 Experience leading full-stack engineering work and small technical teams
+- 🎓 Studied **Software Engineering** at university
 - 🌏 Working across **中文 / 日本語 / English**
 - 🧩 Comfortable crossing frontend, backend, data, infrastructure, and product boundaries
 - ⚡ I care about performance, maintainability, accessibility, and clear interaction design
