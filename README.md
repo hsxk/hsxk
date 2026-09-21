@@ -79,17 +79,17 @@ My favorite problems are the ones where the system is complicated underneath, bu
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,vue,python,go,php,laravel,postgres,mysql,redis,docker,aws,gcp,nginx,cloudflare,githubactions&perline=9" alt="Technology stack" />
+<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,python,go,php,laravel,postgres,mysql,redis,docker,aws,gcp,nginx,cloudflare,githubactions&perline=9" alt="Technology stack" />
 
 </div>
 
 | Area | I work with |
 | --- | --- |
-| **Frontend** | TypeScript, JavaScript, React, Next.js, Vue 3, MUI, i18next, SSR/ISR, responsive UI |
+| **Frontend** | TypeScript, JavaScript, React, Next.js, MUI, i18next, SSR/ISR, responsive UI |
 | **Backend** | Python, FastAPI, Django, Flask, Go, PHP, Laravel, WordPress, REST APIs |
 | **Databases & analytics** | PostgreSQL, **MySQL**, Redis, **Google BigQuery**, data modeling, search |
-| **Data engineering** | Apache Airflow, XBRL / Arelle, disclosure pipelines, ETL-style workflows, MinIO |
-| **Cloud** | **AWS** (ECS, ECR, EC2, RDS, S3, Lambda), **GCP**, **Oracle Cloud Infrastructure (OCI)**, Cloudflare, Vercel |
+| **Data engineering** | **Apache Airflow**, XBRL, disclosure pipelines, ETL-style workflows, MinIO |
+| **Cloud** | **AWS** (ECS, ECR, EC2, RDS, S3, Lambda, EventBridge), **GCP** (BigQuery), **Oracle Cloud Infrastructure (OCI)**, Cloudflare, Vercel |
 | **Infrastructure & delivery** | Docker / Compose, Nginx, HTTP/2 & HTTP/3, GitHub Actions, GHCR, Let's Encrypt |
 | **Product engineering** | UI/UX, performance, accessibility, SEO, multilingual product design, observability |
 | **Interactive experiences** | WebGL / 3D concepts, data visualization, educational simulations |
