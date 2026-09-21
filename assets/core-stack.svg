@@ -1,39 +1,41 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="470" height="260" viewBox="0 0 470 260" role="img" aria-labelledby="title desc">
-  <title id="title">Core engineering stack</title>
-  <desc id="desc">Full-stack, data and cloud engineering with TypeScript, React, Next.js, Python, Go, PHP, PostgreSQL, MySQL, Redis, BigQuery, Airflow, AWS ECS, ECR, EC2, RDS, S3, Lambda, EventBridge, GCP, OCI, Docker, Nginx and Cloudflare.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" width="470" height="330" viewBox="0 0 470 330" role="img" aria-labelledby="title desc">
+  <title id="title">Engineering stack overview</title>
+  <desc id="desc">Full-stack, data, AWS, cloud, and infrastructure engineering skills.</desc>
   <defs>
-    <linearGradient id="g2" x1="0" y1="0" x2="1" y2="0">
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
       <stop offset="0" stop-color="#3fb950"/>
       <stop offset="0.5" stop-color="#58a6ff"/>
       <stop offset="1" stop-color="#a371f7"/>
     </linearGradient>
   </defs>
-  <rect x="1" y="1" width="468" height="258" rx="16" fill="#0d1117" stroke="#30363d"/>
-  <text x="28" y="36" fill="#8b949e" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="12" font-weight="600" letter-spacing="1.4">ENGINEERING STACK</text>
-  <text x="28" y="66" fill="#f0f6fc" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="18" font-weight="700">Full-stack × Data × Cloud</text>
-  <rect x="28" y="78" width="170" height="3" rx="1.5" fill="url(#g2)"/>
-  <g font-family="Inter,Segoe UI,Arial,sans-serif" font-size="11.5" font-weight="600">
-    <rect x="28" y="92" width="88" height="30" rx="15" fill="#161b22" stroke="#30363d"/><text x="45" y="112" fill="#f0f6fc">TypeScript</text>
-    <rect x="124" y="92" width="100" height="30" rx="15" fill="#161b22" stroke="#30363d"/><text x="141" y="112" fill="#f0f6fc">React / Next</text>
-    <rect x="232" y="92" width="70" height="30" rx="15" fill="#161b22" stroke="#30363d"/><text x="248" y="112" fill="#f0f6fc">Python</text>
-    <rect x="310" y="92" width="50" height="30" rx="15" fill="#161b22" stroke="#30363d"/><text x="326" y="112" fill="#f0f6fc">Go</text>
-    <rect x="368" y="92" width="54" height="30" rx="15" fill="#161b22" stroke="#30363d"/><text x="382" y="112" fill="#f0f6fc">PHP</text>
 
-    <rect x="28" y="132" width="94" height="30" rx="15" fill="#161b22" stroke="#30363d"/><text x="45" y="152" fill="#f0f6fc">PostgreSQL</text>
-    <rect x="130" y="132" width="66" height="30" rx="15" fill="#161b22" stroke="#30363d"/><text x="146" y="152" fill="#f0f6fc">MySQL</text>
-    <rect x="204" y="132" width="60" height="30" rx="15" fill="#161b22" stroke="#30363d"/><text x="220" y="152" fill="#f0f6fc">Redis</text>
-    <rect x="272" y="132" width="80" height="30" rx="15" fill="#161b22" stroke="#30363d"/><text x="288" y="152" fill="#f0f6fc">BigQuery</text>
-    <rect x="360" y="132" width="72" height="30" rx="15" fill="#161b22" stroke="#30363d"/><text x="378" y="152" fill="#f0f6fc">Airflow</text>
+  <rect x="1" y="1" width="468" height="328" rx="18" fill="#0d1117" stroke="#30363d"/>
+  <text x="28" y="38" fill="#8b949e" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="12" font-weight="600" letter-spacing="1.5">ENGINEERING STACK</text>
+  <text x="28" y="68" fill="#f0f6fc" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="19" font-weight="700">Full-stack × Data × Cloud</text>
+  <rect x="28" y="80" width="190" height="3" rx="1.5" fill="url(#accent)"/>
 
-    <rect x="28" y="172" width="58" height="30" rx="15" fill="#161b22" stroke="#30363d"/><text x="46" y="192" fill="#f0f6fc">AWS</text>
-    <rect x="94" y="172" width="58" height="30" rx="15" fill="#161b22" stroke="#30363d"/><text x="111" y="192" fill="#f0f6fc">GCP</text>
-    <rect x="160" y="172" width="56" height="30" rx="15" fill="#161b22" stroke="#30363d"/><text x="178" y="192" fill="#f0f6fc">OCI</text>
-    <rect x="224" y="172" width="70" height="30" rx="15" fill="#161b22" stroke="#30363d"/><text x="239" y="192" fill="#f0f6fc">Docker</text>
-    <rect x="302" y="172" width="65" height="30" rx="15" fill="#161b22" stroke="#30363d"/><text x="318" y="192" fill="#f0f6fc">Nginx</text>
-    <rect x="375" y="172" width="86" height="30" rx="15" fill="#161b22" stroke="#30363d"/><text x="389" y="192" fill="#f0f6fc">Cloudflare</text>
+  <g font-family="Inter,Segoe UI,Arial,sans-serif">
+    <text x="28" y="112" fill="#58a6ff" font-size="11" font-weight="700" letter-spacing="1">APP</text>
+    <text x="92" y="112" fill="#f0f6fc" font-size="12.5" font-weight="600">TypeScript · React · Next.js · Python · Go · PHP</text>
+
+    <line x1="28" y1="128" x2="442" y2="128" stroke="#21262d"/>
+
+    <text x="28" y="154" fill="#3fb950" font-size="11" font-weight="700" letter-spacing="1">DATA</text>
+    <text x="92" y="154" fill="#f0f6fc" font-size="12.5" font-weight="600">PostgreSQL · MySQL · Redis · BigQuery</text>
+    <text x="92" y="174" fill="#8b949e" font-size="11.5">Airflow · XBRL · ETL / ELT · MinIO</text>
+
+    <line x1="28" y1="192" x2="442" y2="192" stroke="#21262d"/>
+
+    <text x="28" y="218" fill="#f0883e" font-size="11" font-weight="700" letter-spacing="1">AWS</text>
+    <text x="92" y="218" fill="#f0f6fc" font-size="12.2" font-weight="600">ECS · ECR · EC2 · Lambda · EventBridge · API Gateway</text>
+    <text x="92" y="238" fill="#8b949e" font-size="11.3">RDS · S3 · DynamoDB · VPC · IAM · CloudWatch · SQS / SNS</text>
+
+    <line x1="28" y1="256" x2="442" y2="256" stroke="#21262d"/>
+
+    <text x="28" y="282" fill="#a371f7" font-size="11" font-weight="700" letter-spacing="1">CLOUD</text>
+    <text x="92" y="282" fill="#f0f6fc" font-size="12.2" font-weight="600">GCP · OCI · Cloudflare · Vercel</text>
+
+    <text x="28" y="310" fill="#8b949e" font-size="11" font-weight="700" letter-spacing="1">SHIP</text>
+    <text x="92" y="310" fill="#f0f6fc" font-size="12.2" font-weight="600">Docker · Nginx · GitHub Actions · GHCR · HTTP/2 / HTTP/3</text>
   </g>
-
-  <text x="28" y="224" fill="#8b949e" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="11" font-weight="600">AWS</text>
-  <text x="68" y="224" fill="#f0f6fc" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="11.5">ECS · ECR · EC2 · RDS · S3 · Lambda · EventBridge</text>
-  <rect x="28" y="238" width="404" height="3" rx="1.5" fill="url(#g2)" opacity="0.85"/>
 </svg>
