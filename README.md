@@ -1,120 +1,127 @@
-<div align="center">
+# Kexin Hao
 
-# Hi, I'm Kexin Hao 👋
+**Software Engineer · Full-Stack Technical Lead · Product Builder**
 
-### Software Engineer · Full-Stack Tech Lead · Product Builder
+I design and ship production systems end to end — from product architecture and data pipelines to APIs, cloud infrastructure, and user-facing interfaces.
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=1200&center=true&vCenter=true&width=760&lines=8+years+building+production+software;Full-stack+%C3%97+Data+%C3%97+Cloud;Turning+complex+systems+into+useful+products;Building+in+%E4%B8%AD%E6%96%87+%C2%B7+%E6%97%A5%E6%9C%AC%E8%AA%9E+%C2%B7+English" alt="Typing introduction" />
+My work focuses on **data-intensive products, multilingual experiences, and making complex information easier to understand and use**.
 
-<p>
-  <a href="https://time2analyze.com/"><img src="https://img.shields.io/badge/Time2Analyze-111827?style=for-the-badge&logo=googleanalytics&logoColor=white" alt="Time2Analyze" /></a>
-  <a href="https://time2log.com/"><img src="https://img.shields.io/badge/Time2Log-111827?style=for-the-badge&logo=wordpress&logoColor=white" alt="Time2Log" /></a>
-  <a href="https://sunsets.time2log.com/"><img src="https://img.shields.io/badge/Where_The_Sun_Sets-111827?style=for-the-badge&logo=googleearth&logoColor=white" alt="Where The Sun Sets" /></a>
-</p>
-
-**I build end-to-end products across software, data, cloud infrastructure, and user experience.**
-
-</div>
+[Time2Analyze](https://time2analyze.com/) · [Time2Log](https://time2log.com/) · 中文 / 日本語 / English
 
 ---
 
-## About
+## Profile
 
-- 💻 **8 years of software development** experience
-- 🎓 University background in **Software Engineering**
-- 🧭 Hands-on experience leading full-stack engineering work and small technical teams
-- 🌏 Working across **中文 / 日本語 / English**
-- 🧩 Comfortable owning a problem from product and architecture through implementation, infrastructure, and production
+- 8 years of software development experience
+- Software Engineering background with hands-on full-stack technical leadership
+- Experience taking products from architecture and implementation through infrastructure, deployment, and production operation
+- Strong focus on performance, maintainability, accessibility, observability, and clear interaction design
 
-I’m most interested in engineering work where the system can be sophisticated underneath while the product remains **clear, fast, and easy to use**.
-
-## What I'm building
+## Selected work
 
 <table>
 <tr>
 <td width="50%" valign="top">
-<h3>📊 Time2Analyze</h3>
-<p>A financial disclosure learning and analysis platform for making public-company information easier to explore, understand, and work with.</p>
-<p><b>Disclosure data · Search · Financial analysis · APIs · Learning</b></p>
-<p><a href="https://time2analyze.com/"><b>Visit Time2Analyze →</b></a></p>
+
+<img src="https://raw.githubusercontent.com/hsxk/edinet-ui/main/public/brand/logo-mark.svg" alt="Time2Analyze logo" height="44" />
+
+### [Time2Analyze](https://time2analyze.com/)
+
+A financial disclosure learning and analysis platform for exploring public-company information, filings, financial data, and analytical workflows.
+
+**Focus:** disclosure data · search · financial analysis · APIs · learning
+
+[Website](https://time2analyze.com/) · [Repository](https://github.com/hsxk/edinet-ui)
+
 </td>
 <td width="50%" valign="top">
-<h3>🌅 Where The Sun Sets</h3>
-<p>An interactive astronomy and photography product for understanding sunlight, the Moon, the Earth, direction, timing, and outdoor shooting conditions.</p>
-<p><b>Astronomy · Visualization · Photography · Interactive learning</b></p>
-<p><a href="https://sunsets.time2log.com/"><b>Explore the project →</b></a></p>
+
+<img src="https://raw.githubusercontent.com/hsxk/WhereTheSunSets/main/assets/logo.svg" alt="Where The Sun Sets logo" height="44" />
+
+### [Where The Sun Sets](https://sunsets.time2log.com/)
+
+An interactive astronomy and photography product for understanding sunlight, the Moon, the Earth, direction, timing, and outdoor shooting conditions.
+
+**Focus:** astronomy · visualization · photography · interactive learning
+
+[Website](https://sunsets.time2log.com/) · [Repository](https://github.com/hsxk/WhereTheSunSets)
+
 </td>
 </tr>
 
 <tr>
 <td width="50%" valign="top">
-<h3>📷 Take a Photo</h3>
-<p>An interactive photography learning product for understanding camera settings, exposure, metering, composition, and how those concepts affect one another.</p>
-<p><b>Photography · 3D / interactive learning · Camera fundamentals · Education</b></p>
-<p><i>In active development.</i></p>
+
+<img src="https://raw.githubusercontent.com/hsxk/TakeaPhoto/main/public/logo.svg" alt="Take a Photo logo" height="44" />
+
+### [Take a Photo](https://github.com/hsxk/TakeaPhoto)
+
+An interactive photography learning product for understanding exposure, metering, camera settings, composition, and how those concepts affect one another.
+
+**Focus:** photography · interactive learning · camera fundamentals · education
+
+[Repository](https://github.com/hsxk/TakeaPhoto)
+
 </td>
 <td width="50%" valign="top">
-<h3>✍️ Time2Log</h3>
-<p>My multilingual space for engineering notes, product thinking, experiments, photography, and lessons learned while building.</p>
-<p><b>Engineering · Product thinking · Photography · Writing</b></p>
-<p><a href="https://time2log.com/"><b>Read Time2Log →</b></a></p>
+
+<img src="https://raw.githubusercontent.com/hsxk/WP-Branches-For-Post/master/.wordpress-org/icon-256x256.png" alt="WP Branches For Post logo" height="44" />
+
+### [WP Branches For Post](https://github.com/hsxk/WP-Branches-For-Post)
+
+An open-source WordPress plugin for managing post revisions with a branch-like editorial workflow.
+
+**Focus:** WordPress · editorial workflow · open source
+
+[Repository](https://github.com/hsxk/WP-Branches-For-Post)
+
 </td>
 </tr>
 
 <tr>
-<td colspan="2" valign="top">
-<h3>🌿 WP Branches For Post</h3>
-<p>An open-source WordPress plugin for managing post revisions with a branch-like workflow.</p>
-<p><b>WordPress · Editorial workflow · Open source</b></p>
-<p><a href="https://github.com/hsxk/WP-Branches-For-Post"><b>View on GitHub →</b></a></p>
+<td width="50%" valign="top">
+
+### [Slateframe](https://github.com/hsxk/Slateframe)
+
+An open-source WordPress theme built around clean presentation, maintainable structure, performance, and multilingual-ready publishing.
+
+**Focus:** WordPress · theme engineering · multilingual publishing · performance
+
+[Repository](https://github.com/hsxk/Slateframe)
+
+</td>
+<td width="50%" valign="top">
+
+### [Time2Log](https://time2log.com/)
+
+My multilingual space for engineering notes, product thinking, experiments, photography, and lessons learned while building.
+
+**Focus:** engineering · product thinking · photography · writing
+
+[Website](https://time2log.com/) · [Repository](https://github.com/hsxk/time2log)
+
 </td>
 </tr>
 </table>
 
-## Engineering stack
+## Engineering
 
-| Domain | Technologies & capabilities |
+| Area | Technologies & capabilities |
 | --- | --- |
-| **Frontend** | TypeScript · JavaScript · React · Next.js · MUI · i18next · SSR / ISR · responsive UI |
+| **Product & frontend** | TypeScript · JavaScript · React · Next.js · MUI · i18next · responsive UI · WebGL / 3D |
 | **Backend & APIs** | Python · FastAPI · Django · Flask · Go · PHP · Laravel · WordPress · REST APIs |
-| **Databases & analytics** | PostgreSQL · MySQL · Redis · Google BigQuery · data modeling · search |
-| **Data engineering** | **Apache Airflow** · XBRL · ETL / ELT workflows · MinIO · batch processing · pipeline orchestration |
-| **AWS · Compute & containers** | ECS · ECR · EC2 |
-| **AWS · Serverless & integration** | Lambda · EventBridge · API Gateway · SQS · SNS |
-| **AWS · Data & storage** | RDS · S3 · DynamoDB |
-| **AWS · Networking & edge** | VPC · ALB / ELB · Route 53 · CloudFront |
-| **AWS · Security & operations** | IAM · CloudWatch · Secrets Manager · Systems Manager Parameter Store |
-| **Other cloud platforms** | GCP · BigQuery · Oracle Cloud Infrastructure (OCI) · Cloudflare · Vercel |
-| **Infrastructure & delivery** | Docker · Docker Compose · Nginx · GitHub Actions · GHCR · HTTP/2 · HTTP/3 · TLS / Let's Encrypt |
-| **Product engineering** | UI/UX · performance · accessibility · SEO · multilingual product design · observability |
-| **Interactive experiences** | WebGL / 3D · data visualization · educational simulations |
+| **Data & workflows** | PostgreSQL · MySQL · Redis · BigQuery · Apache Airflow · XBRL · MinIO · ETL / ELT |
+| **Cloud & infrastructure** | AWS · Docker · Docker Compose · Nginx · Cloudflare · Vercel · OCI |
+| **Delivery & quality** | GitHub Actions · GHCR · observability · performance · accessibility · SEO · multilingual product design |
 
-## Open to opportunities & collaboration
+## Current focus
 
-I’m open to conversations around **engineering roles, technical leadership, and product collaboration** — especially where software, data, and infrastructure need to work together as one coherent product.
+I am particularly interested in work where **software engineering, data, infrastructure, and product design need to operate as one system**.
 
-**Good fits include:** full-stack engineering · backend / API engineering · platform & cloud engineering · data-intensive products · hands-on technical leadership · architecture & performance work · multilingual products · open-source collaboration.
+Current areas of work include financial disclosure infrastructure, analytical and educational products, open-source WordPress tooling, and interactive web experiences.
 
-If you're hiring, building something interesting, or looking for an engineering collaborator, feel free to reach out through my projects or [Time2Log](https://time2log.com/).
+## Collaboration
 
-## How I work
+I’m open to conversations around **software engineering, hands-on technical leadership, architecture, and product collaboration** — especially for data-intensive, platform, cloud, or multilingual products.
 
-**Understand the real problem → design the product and system together → ship a coherent solution → measure it in production → automate what should disappear into the background.**
-
-I care about **performance, maintainability, accessibility, observability, and clear interaction design** — not as separate checkboxes, but as parts of the product itself.
-
----
-
-<div align="center">
-
-### Build useful things. Make complex things understandable.
-
-<a href="https://time2analyze.com/">Time2Analyze</a>
-&nbsp;·&nbsp;
-<a href="https://time2log.com/">Time2Log</a>
-&nbsp;·&nbsp;
-<a href="https://sunsets.time2log.com/">Where The Sun Sets</a>
-&nbsp;·&nbsp;
-<a href="https://github.com/hsxk/WP-Branches-For-Post">Open Source</a>
-
-</div>
+For project work and writing, visit [Time2Log](https://time2log.com/) or explore the repositories above.
