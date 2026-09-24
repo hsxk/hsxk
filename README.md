@@ -1,82 +1,156 @@
+<div align="center">
+
 # Kexin Hao
 
-Software engineer and full-stack technical lead based in Japan.
+**Software Engineer · Full-Stack Technical Lead · Product Builder**
 
-I enjoy building products that sit between **software, data, and real-world use** — systems that may be complicated underneath, but should feel straightforward to the people using them.
+Building data-intensive products, developer tools, and interactive web experiences — from architecture and data pipelines to production infrastructure and UI.
 
-Most of my work spans the whole path from an idea to production: product design, frontend and backend development, data pipelines, infrastructure, deployment, performance, and the small details that make a product pleasant to use.
+[Time2Log](https://time2log.com/) · [Time2Analyze](https://time2analyze.com/) · 中文 / 日本語 / English
 
-I work in **中文 · 日本語 · English**.
-
-[time2log.com](https://time2log.com/) · [time2analyze.com](https://time2analyze.com/)
+</div>
 
 ---
 
-## What I'm building
+## About
+
+I have spent the past eight years building production software across frontend, backend, data, cloud infrastructure, and technical leadership.
+
+I like working on products where the engineering underneath is complex, but the experience on top should remain clear. My projects often combine **software engineering, structured data, automation, multilingual UX, performance, and product design** rather than treating them as separate concerns.
+
+Today, most of my independent work is focused on financial disclosure infrastructure, educational and analytical products, WordPress tooling, and interactive web experiences.
+
+## Selected work
+
+<table>
+<tr>
+<td colspan="2" valign="top">
 
 ### [Time2Analyze](https://time2analyze.com/)
-A long-term project around public-company disclosures and financial analysis. It brings together filing data, search, company and fund information, analytical tools, APIs, learning material, and workflows for turning raw disclosures into something easier to explore and understand.
 
-The work behind it covers a fairly large surface area: XBRL processing, data pipelines, PostgreSQL, APIs, search, multilingual UI, financial models, Excel integration, and infrastructure.
+A financial disclosure and analysis platform built to make public-company information easier to find, understand, compare, and use.
 
-[Website](https://time2analyze.com/) · [Repository](https://github.com/hsxk/edinet-ui)
+The project spans EDINET data acquisition, XBRL processing, company and fund search, filings, financial analysis, ownership data, learning content, financial models, an Excel add-in, APIs, and MCP-oriented workflows.
+
+**Core work:** data pipelines · XBRL · search · financial analysis · APIs · multilingual product · infrastructure
+
+[Visit Time2Analyze](https://time2analyze.com/)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
 
 ### [Where The Sun Sets](https://sunsets.time2log.com/)
-An interactive project about the Sun, Moon, Earth, light, direction, and photography.
 
-I started it from a simple question — *where will the Sun actually set from here?* — and it has gradually grown into a set of visual tools and lessons for understanding astronomical movement and planning outdoor photography.
+An interactive astronomy and photography project for understanding where the Sun and Moon are, how their motion relates to the Earth, and how that translates into real shooting conditions.
 
-[Website](https://sunsets.time2log.com/) · [Repository](https://github.com/hsxk/WhereTheSunSets)
+It combines visual models, planning tools, educational material, and photography-oriented explanations.
 
-### [Take a Photo](https://github.com/hsxk/TakeaPhoto)
-A photography learning project built around interaction rather than memorizing definitions. The goal is to make exposure, aperture, shutter speed, ISO, metering, depth of field, diffraction, dynamic range, and composition easier to understand by letting people see how they affect an image.
+**Focus:** astronomy · visualization · Web APIs · photography · interactive learning
 
-[Repository](https://github.com/hsxk/TakeaPhoto)
+[Open the project](https://sunsets.time2log.com/)
+
+</td>
+<td width="50%" valign="top">
+
+### Take a Photo
+
+An interactive photography learning project designed to explain camera behavior through visual feedback rather than isolated definitions.
+
+It covers exposure, aperture, shutter speed, ISO, metering, depth of field, diffraction, dynamic range, composition, and the relationships between them.
+
+**Focus:** photography · camera fundamentals · interactive education · visual simulation
+
+*In active development.*
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
 
 ### [WP Branches For Post](https://github.com/hsxk/WP-Branches-For-Post)
-An open-source WordPress plugin that brings a branch-like workflow to post editing, so larger revisions can be worked on without immediately changing the published version.
 
-[Repository](https://github.com/hsxk/WP-Branches-For-Post)
+An open-source WordPress plugin for working on larger post revisions without immediately changing the published version.
+
+It introduces a branch-like editorial workflow while staying close to the way WordPress authors already work.
+
+**Focus:** WordPress · editorial workflow · publishing · open source
+
+[View repository](https://github.com/hsxk/WP-Branches-For-Post)
+
+</td>
+<td width="50%" valign="top">
 
 ### [Slateframe](https://github.com/hsxk/Slateframe)
-An open-source WordPress theme focused on clean publishing, multilingual sites, performance, accessibility, and a codebase that remains understandable as the theme grows.
 
-[Repository](https://github.com/hsxk/Slateframe)
+An open-source WordPress theme built around clean presentation, maintainable architecture, multilingual publishing, accessibility, and performance.
+
+The goal is a theme that feels polished for readers without becoming difficult for developers to understand or extend.
+
+**Focus:** WordPress · theme engineering · accessibility · performance · multilingual publishing
+
+[View repository](https://github.com/hsxk/Slateframe)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
 
 ### [Time2Log](https://time2log.com/)
-My personal site and the place where I write about engineering, products, experiments, photography, and the things I learn while building them.
 
-[Website](https://time2log.com/) · [Repository](https://github.com/hsxk/time2log)
+My multilingual site for engineering notes, product thinking, experiments, photography, and lessons learned while building real systems.
 
----
+It is also where I document implementation details and decisions that are too specific for a project README but useful enough to keep.
 
-## The kind of engineering I do
+**Focus:** engineering · product development · photography · technical writing
 
-I have worked in software development for about eight years, including hands-on technical leadership for full-stack teams.
+[Read Time2Log](https://time2log.com/)
 
-My strongest work tends to cross traditional boundaries. I am comfortable moving between a React or Next.js interface, a Python or PHP backend, a data pipeline, PostgreSQL, containers, AWS, Nginx, CI/CD, and production debugging when the product needs it.
+</td>
+<td width="50%" valign="top">
 
-**Frontend**  
-TypeScript · JavaScript · React · Next.js · MUI · i18next · responsive UI · WebGL / 3D
+### [docker-nginx](https://github.com/hsxk/docker-nginx)
 
-**Backend & data**  
-Python · FastAPI · Django · Flask · Go · PHP · Laravel · WordPress · PostgreSQL · MySQL · Redis · BigQuery · XBRL
+A public Nginx container project used to keep modern web-serving configuration reproducible and maintainable across deployments.
 
-**Infrastructure & delivery**  
-AWS · Docker · Docker Compose · Nginx · Cloudflare · Vercel · OCI · GitHub Actions · GHCR · Apache Airflow · MinIO
+It reflects the infrastructure side of my work: containerized delivery, TLS, modern HTTP, reverse proxying, and production-oriented configuration.
 
-What matters more to me than the individual tools is whether the finished system is **clear, maintainable, observable, fast, and useful**.
+**Focus:** Nginx · Docker · TLS · HTTP/2 · HTTP/3 · infrastructure
 
-## How I like to work
+[View repository](https://github.com/hsxk/docker-nginx)
 
-I prefer owning a problem far enough to understand how the pieces affect one another.
+</td>
+</tr>
+</table>
 
-That usually means thinking about the product and architecture together, building the smallest coherent version, putting it in front of real use, then improving it from evidence rather than assumptions.
+## Engineering
 
-I care about details such as performance, accessibility, multilingual behavior, SEO, deployment reliability, and operational simplicity because they are part of the product — not cleanup work to leave until the end.
+| Area | Technologies & capabilities |
+| --- | --- |
+| **Frontend & product UI** | TypeScript · JavaScript · React · Next.js · Vue 3 · MUI · i18next · SSR / ISR · responsive UI · WebGL / 3D |
+| **Backend & APIs** | Python · FastAPI · Django · Flask · Go · PHP · Laravel · WordPress · REST APIs |
+| **Databases & search** | PostgreSQL · MySQL · Redis · BigQuery · data modeling · indexing · search-oriented systems |
+| **Data engineering** | Apache Airflow · XBRL · ETL / ELT · MinIO · batch processing · pipeline orchestration |
+| **AWS** | ECS · ECR · EC2 · Lambda · EventBridge · API Gateway · SQS · SNS · RDS · S3 · DynamoDB · VPC · ALB / ELB · Route 53 · CloudFront · IAM · CloudWatch · Secrets Manager · Systems Manager |
+| **Cloud & delivery** | Docker · Docker Compose · Nginx · Cloudflare · Vercel · OCI · GitHub Actions · GHCR · TLS · HTTP/2 · HTTP/3 |
+| **Product quality** | performance · accessibility · SEO · observability · multilingual product design · production debugging |
 
-## Open source and collaboration
+## How I work
 
-I build many of my personal projects in public and enjoy turning internal solutions into reusable tools when it makes sense.
+**Understand the problem → design the product and system together → ship a coherent version → observe real behavior → improve what matters.**
 
-I'm always interested in thoughtful engineering discussions, open-source collaboration, and products where software, data, infrastructure, and user experience genuinely need to work together.
+I am comfortable owning a problem across layers when that produces a better result. That can mean moving from a UI issue into an API, from an API into a data model, from a data model into a pipeline, or from an application problem into Nginx, containers, CI/CD, and cloud infrastructure.
+
+I care about performance, maintainability, accessibility, observability, deployment reliability, and multilingual behavior because they directly affect whether a product is actually usable.
+
+## Open source & collaboration
+
+I build a growing part of my independent work in public, especially developer tooling and WordPress projects.
+
+I’m interested in engineering work and collaboration around **full-stack systems, data-intensive products, platform and cloud engineering, technical leadership, performance, and multilingual products**.
+
+For longer-form notes and project write-ups, visit [Time2Log](https://time2log.com/).
