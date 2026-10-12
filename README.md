@@ -32,26 +32,24 @@ I’m most interested in engineering work where the system can be sophisticated 
 
 ### Time2Analyze
 
-A financial disclosure learning and analysis platform for making public-company information easier to explore, understand, compare, and work with.
+Turn public-company filings into analysis you can trace back to the source. Time2Analyze connects searchable Japanese disclosure data with company research, multi-year financial comparisons, valuation models, and evidence-backed workflows in Excel and AI.
 
-It brings together filing data, company and fund search, financial analysis, ownership information, learning content, financial models, APIs, an Excel add-in, and MCP-oriented workflows.
+**Financial disclosures · Traceable data · Financial modeling · Excel & AI**
 
-**Disclosure data · Search · Financial analysis · APIs · Learning**
-
-[Visit Time2Analyze →](https://time2analyze.com/)
+[Explore Time2Analyze →](https://time2analyze.com/)
 
 </td>
 <td width="50%" valign="top">
 
 ### Where The Sun Sets
 
-An interactive astronomy and photography product for understanding sunlight, the Moon, the Earth, direction, timing, and real outdoor shooting conditions.
+Plan a photograph around where the Sun and Moon will actually be. Choose a location and date to explore rise and set times, sky paths, and directions; use alignment planning to find shooting opportunities.
 
-It combines visual models, planning tools, Web APIs, and educational material around astronomical movement and photography.
+Interactive astronomy lessons explain the geometry behind what you see in the sky.
 
-**Astronomy · Visualization · Photography · Interactive learning**
+**Sun & Moon · Location planning · Sky visualization · Interactive lessons**
 
-[Explore the project →](https://sunsets.time2log.com/)
+[Plan a shot →](https://sunsets.time2log.com/)
 
 </td>
 </tr>
@@ -61,26 +59,24 @@ It combines visual models, planning tools, Web APIs, and educational material ar
 
 ### Take a Photo
 
-A live interactive photography school where you learn by operating a virtual camera instead of memorizing settings. Explore exposure modes (Auto, P, A, S, M), aperture, shutter speed, ISO, metering, autofocus, focal length, and depth of field.
+Learn photography by making the decisions a camera asks you to make. Use an interactive camera to change exposure modes, aperture, shutter speed, ISO, focus, and metering, then compare shots to see what changed and why.
 
-Hands-on simulations and side-by-side shots connect camera controls with exposure, motion, perspective, and image quality.
+Guided experiments connect those controls to motion blur, depth of field, perspective, and image quality.
 
-**Photography · Virtual camera · Interactive simulations · Hands-on learning**
+**Virtual camera · Exposure · Focus & metering · Hands-on lessons**
 
-[Try Take a Photo →](https://photo.time2log.com/)
+[Try the camera →](https://photo.time2log.com/)
 
 </td>
 <td width="50%" valign="top">
 
 ### Time2Log
 
-My multilingual space for engineering notes, product thinking, experiments, photography, and lessons learned while building real systems.
+A multilingual journal of what it takes to turn ideas into working software. I write about architecture, product decisions, UI/UX, data engineering, and lessons from building and operating real systems—alongside photography and astronomy.
 
-It is also where I document implementation details and product decisions that are useful beyond a single repository README.
+**Engineering notes · Product decisions · Photography · Learning in public**
 
-**Engineering · Product thinking · Photography · Writing**
-
-[Read Time2Log →](https://time2log.com/)
+[Read the journal →](https://time2log.com/)
 
 </td>
 </tr>
@@ -90,22 +86,24 @@ It is also where I document implementation details and product decisions that ar
 
 ### WP Branches For Post
 
-An open-source WordPress plugin for managing substantial post revisions with a branch-like workflow, without immediately changing the published version.
+Revise a published WordPress post without changing what readers see. WP Branches For Post gives editors isolated working branches, three-way comparisons, conflict-aware merges, and optional approval workflows—so major updates can be reviewed before going live.
 
-**WordPress · Editorial workflow · Publishing · Open source**
+**WordPress plugin · Editorial branching · Safe merges · Review workflows**
 
-[View on GitHub →](https://github.com/hsxk/WP-Branches-For-Post)
+[Install from WordPress.org →](https://wordpress.org/plugins/wp-branches-for-post/) · [Source →](https://github.com/hsxk/WP-Branches-For-Post)
 
 </td>
 <td width="50%" valign="top">
 
 ### Slateframe
 
-An open-source WordPress theme focused on clean presentation, multilingual publishing, accessibility, performance, and maintainable architecture.
+A content-first WordPress theme built for writing, photography, and portfolios. Slateframe uses native blocks, restrained editorial layouts, accessible interactions, multilingual-ready navigation, and lightweight assets—without relying on a page builder.
 
-**WordPress · Theme engineering · Accessibility · Performance**
+*Pre-release · Under active development.*
 
-[View on GitHub →](https://github.com/hsxk/Slateframe)
+**WordPress theme · Editorial design · Accessibility · Performance**
+
+[Explore the source →](https://github.com/hsxk/Slateframe)
 
 </td>
 </tr>
@@ -115,13 +113,11 @@ An open-source WordPress theme focused on clean presentation, multilingual publi
 
 ### docker-nginx
 
-A public Nginx container project for keeping modern web-serving configuration reproducible and maintainable across deployments.
+A reusable NGINX container for modern web deployments, with HTTP/3 (QUIC), Brotli, and modular configuration. It offers a repeatable base for reverse proxies and applications while leaving site-specific security headers and policies under the application's control.
 
-It reflects the infrastructure side of my work: containerized delivery, reverse proxying, TLS, HTTP/2, HTTP/3, and production-oriented configuration.
+**NGINX · Docker · HTTP/3 / QUIC · Modular configuration**
 
-**Nginx · Docker · TLS · HTTP/2 · HTTP/3 · Infrastructure**
-
-[View on GitHub →](https://github.com/hsxk/docker-nginx)
+[Docker image →](https://hub.docker.com/r/hsxk/nginx) · [Source →](https://github.com/hsxk/docker-nginx)
 
 </td>
 </tr>
