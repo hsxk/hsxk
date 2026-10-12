@@ -8,7 +8,7 @@
 
 **I build end-to-end products across software, data, cloud infrastructure, and user experience.**
 
-[Time2Analyze](https://time2analyze.com/) · [Time2Log](https://time2log.com/) · [Where The Sun Sets](https://sunsets.time2log.com/)
+[Time2Analyze](https://time2analyze.com/) · [Time2Log](https://time2log.com/) · [Where The Sun Sets](https://sunsets.time2log.com/) · [Take a Photo](https://photo.time2log.com/)
 
 </div>
 
@@ -61,13 +61,13 @@ It combines visual models, planning tools, Web APIs, and educational material ar
 
 ### Take a Photo
 
-An interactive photography learning product for understanding exposure, metering, aperture, shutter speed, ISO, depth of field, diffraction, dynamic range, composition, and how those ideas affect one another.
+A live interactive photography school where you learn by operating a virtual camera instead of memorizing settings. Explore exposure modes (Auto, P, A, S, M), aperture, shutter speed, ISO, metering, autofocus, focal length, and depth of field.
 
-The emphasis is on seeing and interacting with the concepts rather than memorizing isolated definitions.
+Hands-on simulations and side-by-side shots connect camera controls with exposure, motion, perspective, and image quality.
 
-**Photography · Interactive learning · Camera fundamentals · Education**
+**Photography · Virtual camera · Interactive simulations · Hands-on learning**
 
-*In active development.*
+[Try Take a Photo →](https://photo.time2log.com/)
 
 </td>
 <td width="50%" valign="top">
@@ -168,6 +168,8 @@ I care about **performance, maintainability, accessibility, observability, and c
 [Time2Log](https://time2log.com/)
 &nbsp;·&nbsp;
 [Where The Sun Sets](https://sunsets.time2log.com/)
+&nbsp;·&nbsp;
+[Take a Photo](https://photo.time2log.com/)
 &nbsp;·&nbsp;
 [Open Source](https://github.com/hsxk?tab=repositories)
 
