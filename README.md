@@ -4,7 +4,7 @@
 
 ### Software Engineer · Full-Stack Technical Lead · Product Builder
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=1200&center=true&vCenter=true&width=760&lines=8+years+building+production+software;Full-stack+%C3%97+Data+%C3%97+Cloud;Turning+complex+systems+into+useful+products;Building+in+%E4%B8%AD%E6%96%87+%C2%B7+%E6%97%A5%E6%9C%AC%E8%AA%9E+%C2%B7+English" alt="Typing introduction" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=1200&center=true&vCenter=true&width=760&lines=8%2B+years+across+software+engineering+and+IT+consulting;Full-stack+%C3%97+Data+%C3%97+Cloud;Turning+complex+systems+into+useful+products;Building+in+%E4%B8%AD%E6%96%87+%C2%B7+%E6%97%A5%E6%9C%AC%E8%AA%9E+%C2%B7+English" alt="Typing introduction" />
 
 **I build end-to-end products across software, data, cloud infrastructure, and user experience.**
 
@@ -16,7 +16,7 @@
 
 ## About
 
-- **8 years of software development** experience
+- **8+ years of professional experience** across software engineering, full-stack development, and IT consulting
 - University background in **Software Engineering**
 - Hands-on experience leading full-stack engineering work and small technical teams
 - Working across **中文 / 日本語 / English**
